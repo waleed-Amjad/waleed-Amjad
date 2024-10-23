@@ -1,7 +1,7 @@
 # Hi everyone,I'm Waleed Amjad!
 ## A learning developer and a Student
-•	Studying at THE UNIVERSITY OF FAISALABAD
-•	Studying Artificial intelligence
+•	Studying at THE UNIVERSITY OF FAISALABAD```
+•	Studying Artificial intelligence```
 •	Learning about ML
 
 
