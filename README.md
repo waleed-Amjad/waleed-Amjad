@@ -42,7 +42,14 @@
 		<img width="135em" src="https://github.com/waleed-Amjad/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
 	</a>
 </p>
-
+# Contributions
+<h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+--->
 # Technologies
 
 ## 🌐 CI/CD 🔝
