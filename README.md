@@ -5,7 +5,8 @@
 - 🤖 Major: **Artificial Intelligence**
 - 📚 Currently learning **Machine Learning**
 
-<img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=waleed-Amjad.visitor-badge" />
+![Profile Views](https://komarev.com/ghpvc/?username=waleed-Amjad&color=blue)
+
 
 <h3 align="center">Hello and welcome 😄</h3>
 
@@ -17,12 +18,13 @@
 
 <!-- GitHub Stats Table -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleed-Amjad&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waleed-Amjad&show_icons=true&theme=dark">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-Amjad&layout=compact&theme=dark">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=waleed-Amjad&layout=compact&theme=dark">
 </p>
+
 
 
 
@@ -31,7 +33,7 @@
   <a href="https://github.com/waleed-Amjad/my_github_profile_views_counter">
     <img
       width="135"
-      src="https://github.com/waleed-Amjad/my_github_profile_views_counter/blob/master/svg/profile/badge.svg"
+      ![Repo Views](https://komarev.com/ghpvc/?username=waleed-Amjad&label=Repository%20Views&color=green)
     />
   </a>
 </p>
