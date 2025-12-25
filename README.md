@@ -18,11 +18,11 @@
 
 <!-- GitHub Stats Table -->
 <p align="center">
-  ![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleed-Amjad&show_icons=true&theme=radical)
+  ![Waleed's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waleed-Amjad&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=dark)
 </p>
 
 <p align="center">
-  ![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleed-Amjad&show_icons=true&theme=radical)
+  ![Waleed's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waleed-Amjad&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=dark)
 </p>
 
 
