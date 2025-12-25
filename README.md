@@ -17,10 +17,6 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waleed-Amjad&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=dark" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=waleed-Amjad&layout=compact&langs_count=10&cache_seconds=86400&theme=dark" />
 </p>
 
