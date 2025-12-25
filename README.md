@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=waleed-Amjad&include_all_commits=true&hide_border=true&theme=dark"/>
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
