@@ -7,7 +7,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waleed-Amjad&color=blue)
 
-
 <h3 align="center">Hello and welcome 😄</h3>
 
 <h4 align="center">
@@ -16,26 +15,18 @@
 
 <hr>
 
-<!-- GitHub Stats Table -->
+<!-- GitHub Stats -->
 <p align="center">
-  ![Waleed's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waleed-Amjad&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=dark)
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waleed-Amjad&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=dark" />
 </p>
 
 <p align="center">
-  ![Waleed's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waleed-Amjad&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=dark)
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=waleed-Amjad&layout=compact&langs_count=10&cache_seconds=86400&theme=dark" />
 </p>
-
-
-
 
 <h4 align="center">Views of all repositories (updated daily)</h4>
 <p align="center">
-  <a href="https://github.com/waleed-Amjad/my_github_profile_views_counter">
-    <img
-      width="135"
-      ![Repo Views](https://komarev.com/ghpvc/?username=waleed-Amjad&label=Repository%20Views&color=green)
-    />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=waleed-Amjad&label=Repository%20Views&color=green" width="135"/>
 </p>
 
 ---
