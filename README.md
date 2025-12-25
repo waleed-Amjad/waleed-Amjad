@@ -26,10 +26,10 @@
   <table>
     <tr>
       <td>
-        <img width="450em" src="https://github-readme-stats.vercel.app/api?username=waleed-Amjad&show_icons=true&theme=dark" />
+        <img width="450em" src="https://github-readme-stats.vercel.app/api?username=waleed-Amjad&show_icons=true&theme=radical" />
       </td>
       <td>
-        <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-Amjad&layout=compact&custom_title=Most%20Used%20Languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark"/>
+        <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-Amjad&layout=compact&custom_title=Most%20Used%20Languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=radical"/>
       </td>
     </tr>
   </table>
