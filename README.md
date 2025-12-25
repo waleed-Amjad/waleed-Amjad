@@ -18,11 +18,11 @@
 
 <!-- GitHub Stats Table -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waleed-Amjad&show_icons=true&theme=dark">
+  ![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleed-Amjad&show_icons=true&theme=radical)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=waleed-Amjad&layout=compact&theme=dark">
+  ![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waleed-Amjad&show_icons=true&theme=radical)
 </p>
 
 
