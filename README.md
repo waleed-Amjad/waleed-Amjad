@@ -16,16 +16,14 @@
 <hr>
 
 <!-- GitHub Stats Table -->
-<div align="center">
-  <img
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waleed-Amjad&show_icons=true&theme=radical" />
-    width="450"
-  />
-  <img
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waleed-Amjad&show_icons=true&theme=radical" />
-    width="450"
-  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waleed-Amjad&show_icons=true&theme=dark">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-Amjad&layout=compact&theme=dark">
+</p>
+
 
 
 <h4 align="center">Views of all repositories (updated daily)</h4>
